@@ -7,7 +7,7 @@ Project uses everything we learnt in OOP throughout whole semester, things like 
 Whole project is based on using txt files as data storage from which we write and read from.
 
 Brief description of project:
-Project Hotel contains 3 parts of which it has been made:\
+Project Hotel contains 3 parts of which it has been made:
   
   1.Admin panel\
   2.Take a look at existing hotels\
