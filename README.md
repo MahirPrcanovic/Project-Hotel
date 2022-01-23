@@ -11,9 +11,9 @@ Project Hotel contains 3 parts of which it has been made:
   
   1.Admin panel\
   2.Take a look at existing hotels\
-  3.Reservation\
+  3.Reservation
  
-Each of these options contain more in detail options:\
+Each of these options contain more in detail options:
   
   Admin consists of:\
      1.Make new hotel\
@@ -22,9 +22,9 @@ Each of these options contain more in detail options:\
      4.Get data of some type of room (only free ones, reserved ones, occupied ones or all together)\
      5.Add new worker\
      6.Get data of workers\
-     7.Get data of inserted reservations\
+     7.Get data of inserted reservations
      
-  Take a look at existing hotels only displays all hotels that have been inserted into txt file.\
+  Take a look at existing hotels only displays all hotels that have been inserted into txt file.
   
   Reservation contains of:\
     1.Sign up \
