@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(19,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(155,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(170,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(245,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(279,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(307,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(325,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(355,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(450,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(460,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(475,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(507,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(517,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(567,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(588,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\HOTEL3\main.cpp(95,6): warning C4101: 'a': unreferenced local variable
+  HOTEL3.vcxproj -> C:\Users\mahir\Desktop\Coding stuff\HOTEL\HOTEL3\Debug\HOTEL3.exe
