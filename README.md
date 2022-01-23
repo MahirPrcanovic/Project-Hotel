@@ -1,9 +1,9 @@
 # Project-Hotel
 
-Project made in c++ for faculty purposes. (Object-Oriented Programming class - OOP)
-Note: Program is fully written in c++ and contains Bosnian language all over it. (sorry)
-Documentation of this project you can download (Hotel final.pdf) which you can read in detail if you want more information about this project! (also written in Bosnian)
-Project uses everything we learnt in OOP throughout whole semester, things like classes, inheritance, polimorphisam, virtual functions, enums etc...
+Project made in c++ for faculty purposes. (Object-Oriented Programming class - OOP)\
+Note: Program is fully written in c++ and contains Bosnian language all over it. (sorry)\
+Documentation of this project you can download (Hotel final.pdf) which you can read in detail if you want more information about this project! (also written in Bosnian)\
+Project uses everything we learnt in OOP throughout whole semester, things like classes, inheritance, polimorphisam, virtual functions, enums etc...\
 Whole project is based on using txt files as data storage from which we write and read from.
 
 Brief description of project:
