@@ -9,9 +9,9 @@ Whole project is based on using txt files as data storage from which we write an
 Brief description of project:
 Project Hotel contains 3 parts of which it has been made:
   
-  1.Admin panel \n
-  2.Take a look at existing hotels \n
-  3.Reservation
+  1.Admin panel. 
+  2.Take a look at existing hotels.
+  3.Reservation.
  
 Each of these options contain more in detail options:
   
